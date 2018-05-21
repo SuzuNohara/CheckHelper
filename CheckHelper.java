@@ -41,7 +41,7 @@ public class CheckHelper{
         }else if(args[0].equals("out")){
             esc.escribir("[" + getHour() + "] - Iniciando proceso de registro de salida");
             System.out.println("[" + getHour() + "] - Iniciando proceso de registro de salida");
-            waitTime(args[0]);
+            //waitTime(args[0]);
             report(args[0]);
         }else{
             esc.escribir("Error en ejecucion: Consistencia de argumentos");

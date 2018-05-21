@@ -1,0 +1,5 @@
+____________________________________________________________
+[18:10:06] - Iniciando proceso de registro de salida
+[18:10:06] - Construyendo url...http://10.119.154.130/sf/sp/index.php?button=SALIDA&accion=registrar&tipo=SALIDA
+[18:10:06] - Registrando salida - 200
+____________________________________________________________
